@@ -8,7 +8,7 @@
 }
 #container::before{
 	content:"Before Element"
-
+}
 #container::after{
 	content:"After Element"
 }
